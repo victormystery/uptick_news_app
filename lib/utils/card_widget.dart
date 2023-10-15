@@ -17,9 +17,36 @@ class NewsCardList extends StatelessWidget {
         imageUrl: 'images/help_doc.jpg',
       ),
       NewsArticle(
-        title: 'Article 2',
-        description: 'Description for Article 2',
-        imageUrl: 'images/dog_1.jpeg',
+        title:
+            'Gaza doctors warn of a humanitarian catastrophe after Israeli attacks',
+        description:
+            'After seven days of relentless Israeli bombardment, the humanitarian situation in the  Gaza Strip is rapidly deteriorating.'
+            'Hospitals in the northern part of the besieged enclave have received evacuation orders ahead of a looming ground offensive, while medical facilities throughout the densely populated territory are overwhelmed by wounded patients and sheltering residents.',
+        imageUrl: 'images/help_doc.jpg',
+      ),
+      NewsArticle(
+        title:
+            'Gaza doctors warn of a humanitarian catastrophe after Israeli attacks',
+        description:
+            'After seven days of relentless Israeli bombardment, the humanitarian situation in the  Gaza Strip is rapidly deteriorating.'
+            'Hospitals in the northern part of the besieged enclave have received evacuation orders ahead of a looming ground offensive, while medical facilities throughout the densely populated territory are overwhelmed by wounded patients and sheltering residents.',
+        imageUrl: 'images/help_doc.jpg',
+      ),
+      NewsArticle(
+        title:
+            'Gaza doctors warn of a humanitarian catastrophe after Israeli attacks',
+        description:
+            'After seven days of relentless Israeli bombardment, the humanitarian situation in the  Gaza Strip is rapidly deteriorating.'
+            'Hospitals in the northern part of the besieged enclave have received evacuation orders ahead of a looming ground offensive, while medical facilities throughout the densely populated territory are overwhelmed by wounded patients and sheltering residents.',
+        imageUrl: 'images/help_doc.jpg',
+      ),
+      NewsArticle(
+        title:
+            'Gaza doctors warn of a humanitarian catastrophe after Israeli attacks',
+        description:
+            'After seven days of relentless Israeli bombardment, the humanitarian situation in the  Gaza Strip is rapidly deteriorating.'
+            'Hospitals in the northern part of the besieged enclave have received evacuation orders ahead of a looming ground offensive, while medical facilities throughout the densely populated territory are overwhelmed by wounded patients and sheltering residents.',
+        imageUrl: 'images/help_doc.jpg',
       ),
     ];
 
